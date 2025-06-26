@@ -1,0 +1,4 @@
+C:\Users\Alaya manasar\Downloads\MarsaKanzAbhar\MarsaKanzAbhar1\MarsaKanzAbhar1\JRINCCustomControls\obj\x64\Debug\JRINCCustomControls.csprojAssemblyReference.cache
+C:\Users\Alaya manasar\Downloads\MarsaKanzAbhar\MarsaKanzAbhar1\MarsaKanzAbhar1\JRINCCustomControls\obj\x64\Debug\JRINCCustomControls.csproj.CoreCompileInputs.cache
+C:\Users\Alaya manasar\Downloads\MarsaKanzAbhar\MarsaKanzAbhar1\MarsaKanzAbhar1\JRINCCustomControls\obj\x64\Debug\JRINCCustomControls.dll
+C:\Users\Alaya manasar\Downloads\MarsaKanzAbhar\MarsaKanzAbhar1\MarsaKanzAbhar1\JRINCCustomControls\obj\x64\Debug\JRINCCustomControls.pdb

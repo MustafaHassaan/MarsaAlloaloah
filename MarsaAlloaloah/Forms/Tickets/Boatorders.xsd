@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Boatorders" targetNamespace="http://tempuri.org/Boatorders.xsd" xmlns:mstns="http://tempuri.org/Boatorders.xsd" xmlns="http://tempuri.org/Boatorders.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Boatorders" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_UserDSName="Boatorders" msprop:Generator_DataSetName="Boatorders">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Orderlist" msprop:Generator_RowEvHandlerName="OrderlistRowChangeEventHandler" msprop:Generator_RowDeletedName="OrderlistRowDeleted" msprop:Generator_RowDeletingName="OrderlistRowDeleting" msprop:Generator_RowEvArgName="OrderlistRowChangeEvent" msprop:Generator_TablePropName="Orderlist" msprop:Generator_RowChangedName="OrderlistRowChanged" msprop:Generator_RowChangingName="OrderlistRowChanging" msprop:Generator_TableClassName="OrderlistDataTable" msprop:Generator_RowClassName="OrderlistRow" msprop:Generator_TableVarName="tableOrderlist" msprop:Generator_UserTableName="Orderlist">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Id" msprop:Generator_ColumnPropNameInRow="Id" msprop:Generator_ColumnPropNameInTable="IdColumn" msprop:Generator_ColumnVarNameInTable="columnId" msprop:Generator_UserColumnName="Id" type="xs:string" minOccurs="0" />
+              <xs:element name="Boatname" msprop:Generator_ColumnPropNameInRow="Boatname" msprop:Generator_ColumnPropNameInTable="BoatnameColumn" msprop:Generator_ColumnVarNameInTable="columnBoatname" msprop:Generator_UserColumnName="Boatname" type="xs:string" minOccurs="0" />
+              <xs:element name="Duretion" msprop:Generator_ColumnPropNameInRow="Duretion" msprop:Generator_ColumnPropNameInTable="DuretionColumn" msprop:Generator_ColumnVarNameInTable="columnDuretion" msprop:Generator_UserColumnName="Duretion" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,11 @@
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\Zatca\obj\Debug\Zatca.csproj.AssemblyReference.cache
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\Zatca\obj\Debug\Zatca.csproj.CoreCompileInputs.cache
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\Zatca\bin\Debug\Zatca.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\Zatca\bin\Debug\Zatca.pdb
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\Zatca\bin\Debug\Newtonsoft.Json.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\Zatca\bin\Debug\SDKNETFrameWorkLib.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\Zatca\bin\Debug\Newtonsoft.Json.xml
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\Zatca\obj\Debug\Zatca.csproj.CopyComplete
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\Zatca\obj\Debug\Zatca.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\Zatca\obj\Debug\Zatca.pdb
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\Zatca\bin\Debug\BouncyCastle.Crypto.dll

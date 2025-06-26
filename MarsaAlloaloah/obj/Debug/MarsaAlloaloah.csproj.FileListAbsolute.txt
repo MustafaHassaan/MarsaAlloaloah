@@ -1,0 +1,950 @@
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\bin\Debug\MarsaAlloaloah.exe.config
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\bin\Debug\MarsaAlloaloah.exe.manifest
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\bin\Debug\MarsaAlloaloah.application
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\bin\Debug\MarsaAlloaloah.exe
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\bin\Debug\MarsaAlloaloah.pdb
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\bin\Debug\CrystalDecisions.Shared.dll
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\bin\Debug\FlashControlV71.dll
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\bin\Debug\itextsharp.dll
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\bin\Debug\JRINCCustomControls.dll
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\bin\Debug\Libraries.dll
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\bin\Debug\SmartArabXLSX.dll
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\bin\Debug\zxing.dll
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\bin\Debug\zxing.presentation.dll
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\bin\Debug\CrystalDecisions.Web.dll
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\bin\Debug\JRINCCustomControls.pdb
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\bin\Debug\JRINCCustomControls.xml
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\bin\Debug\Libraries.pdb
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\bin\Debug\itextsharp.xml
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\bin\Debug\zxing.xml
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\bin\Debug\zxing.presentation.xml
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.csproj.AssemblyReference.cache
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.csproj.SuggestedBindingRedirects.cache
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.CrystalReports.CQR.Formrp.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.CrystalReports.CQR.Repland.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.Forms.Boats.Boatowners.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmdriversAndListing.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.Forms.Jobs.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.Forms.PrincipalSetup.Frmabg.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.FrmAddons.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.Forms.Returnedlist.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.Forms.Returned.Customersform.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\frmemployees.Forms.Returned.Frmreturn.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.Forms.Returned.Retrepform.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.Forms.Returned.Returnedform.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.Forms.Returned.SFR.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.Forms.Roles.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmboatsAndListing.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmboats.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmBoatsOrder.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmBoatType.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmCompanyDiscount.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmcustomers.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmdrivers.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmemployees.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmExpenses.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmExpensesType.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmHijriDate.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frminboat.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmIncome.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmIncomeType.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmLandingPayment.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmlanding.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmLogin.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmMaintenance.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmEditTicket.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmmdi.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmoutboat.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmprice.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmpricegroup.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmPrintTicket.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.FrmReports.FrmExratios.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmIncomeFromCashier.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.FrmReports.FrmRepIncom.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmReportDriverCommission.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmReportCashierCommission.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmReportFilterIncome.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmReportFilterExpenses.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmReportFilterLandingPayment.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmReportGeneral.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmReportIncomeFromCashier.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmReportCashier.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmReportPrint.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmReportFilterTreasury.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmRole.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmSettings.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmShowEmployeeImage.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmShowImageDriver.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmShowImage.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmticket.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.FrmTickets.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmReportFilterWorkingHours.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmTransferBankToTreasury.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmTransferTreasuryToBank.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmBankAccount.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmtreasury.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.frmUsers.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.FrmReports.FrmRepTicketsvat.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.FrmReports.MPM.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.FrmReports.NewRep.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.FrmReports.FrmRepExpenses.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.Properties.Resources.resources
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.csproj.GenerateResource.cache
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.csproj.CoreCompileInputs.cache
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.exe.manifest
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.application
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.csproj.CopyComplete
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.exe
+C:\Integrated Entity\مرسى اللؤلؤه\MarsaKanzAbhar_SourceCode1409\MarsaKanzAbhar\obj\Debug\MarsaAlloaloah.pdb
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\MarsaAlloaloah.exe.config
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\MarsaAlloaloah.exe.manifest
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\MarsaAlloaloah.application
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\MarsaAlloaloah.exe
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\MarsaAlloaloah.pdb
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.Shared.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\FlashControlV71.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\itextsharp.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\JRINCCustomControls.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Libraries.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\SmartArabXLSX.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\zxing.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\zxing.presentation.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.Web.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CRVsPackageLib.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\VsWebSite.Interop.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Telemetry.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Memory.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.RpcContracts.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Collections.Immutable.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Buffers.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\EnvDTE.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Newtonsoft.Json.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Numerics.Vectors.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.IO.Pipelines.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\JRINCCustomControls.pdb
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\JRINCCustomControls.xml
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Libraries.pdb
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\itextsharp.xml
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\zxing.xml
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\zxing.presentation.xml
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.GraphModel.xml
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.csproj.AssemblyReference.cache
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.csproj.SuggestedBindingRedirects.cache
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.exe.config
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.CrystalReports.CQR.Formrp.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.CrystalReports.CQR.Repland.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Boats.Boatowners.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmdriversAndListing.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Jobs.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.PrincipalSetup.Frmabg.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmAddons.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Returnedlist.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Returned.Customersform.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\frmemployees.Forms.Returned.Frmreturn.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Returned.Retrepform.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Returned.Returnedform.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Returned.SFR.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Roles.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmboatsAndListing.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmboats.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmBoatsOrder.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmBoatType.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmCompanyDiscount.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmcustomers.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmdrivers.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmemployees.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmExpenses.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmExpensesType.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmHijriDate.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frminboat.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmIncome.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmIncomeType.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmLandingPayment.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmlanding.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmLogin.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmMaintenance.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmEditTicket.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmmdi.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmoutboat.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmprice.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmpricegroup.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmPrintTicket.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.FrmExratios.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmIncomeFromCashier.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.FrmRepIncom.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportDriverCommission.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportCashierCommission.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportFilterIncome.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportFilterExpenses.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportFilterLandingPayment.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportGeneral.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportIncomeFromCashier.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportCashier.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportPrint.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportFilterTreasury.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmRole.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmSettings.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmShowEmployeeImage.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmShowImageDriver.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmShowImage.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmticket.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmTickets.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportFilterWorkingHours.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmTransferBankToTreasury.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmTransferTreasuryToBank.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmBankAccount.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmtreasury.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmUsers.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.FrmRepTicketsvat.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.MPM.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.NewRep.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.FrmRepExpenses.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Properties.Resources.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.csproj.GenerateResource.cache
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.csproj.CoreCompileInputs.cache
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.exe.manifest
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.application
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.csproj.CopyComplete
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.exe
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.pdb
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.BoatfixReport.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.Frmreports.resources
+C:\Integrated Entity\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.SeaBoat.Frmsortboats.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\MarsaAlloaloah.exe.config
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\MarsaAlloaloah.exe.manifest
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\MarsaAlloaloah.application
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\MarsaAlloaloah.exe
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\MarsaAlloaloah.pdb
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.Shared.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\FlashControlV71.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\itextsharp.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\JRINCCustomControls.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Libraries.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\SmartArabXLSX.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\zxing.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\zxing.presentation.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.Web.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CRVsPackageLib.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\VsWebSite.Interop.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Telemetry.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Memory.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.RpcContracts.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Collections.Immutable.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Buffers.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\EnvDTE.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Newtonsoft.Json.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Numerics.Vectors.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\JRINCCustomControls.pdb
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\JRINCCustomControls.xml
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Libraries.pdb
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\itextsharp.xml
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\zxing.xml
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\zxing.presentation.xml
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.GraphModel.xml
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.csproj.AssemblyReference.cache
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.csproj.SuggestedBindingRedirects.cache
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.exe.config
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.CrystalReports.CQR.Formrp.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.CrystalReports.CQR.Repland.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Boats.Boatowners.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmdriversAndListing.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Jobs.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.PrincipalSetup.Frmabg.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmAddons.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Returnedlist.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Returned.Customersform.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\frmemployees.Forms.Returned.Frmreturn.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Returned.Retrepform.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Returned.Returnedform.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Returned.SFR.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Roles.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmboatsAndListing.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmboats.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmBoatsOrder.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmBoatType.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmCompanyDiscount.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmcustomers.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmdrivers.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmemployees.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmExpenses.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmExpensesType.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmHijriDate.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frminboat.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmIncome.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmIncomeType.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmLandingPayment.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmlanding.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmLogin.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmMaintenance.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.SeaBoat.Frmsortboats.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmEditTicket.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmmdi.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmoutboat.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmprice.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmpricegroup.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmPrintTicket.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.BoatfixReport.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.FrmExratios.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmIncomeFromCashier.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.FrmRepIncom.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportDriverCommission.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportCashierCommission.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportFilterIncome.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportFilterExpenses.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportFilterLandingPayment.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportGeneral.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportIncomeFromCashier.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportCashier.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportPrint.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportFilterTreasury.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmRole.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmSettings.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmShowEmployeeImage.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmShowImageDriver.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmShowImage.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmTickets.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportFilterWorkingHours.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmTransferBankToTreasury.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmTransferTreasuryToBank.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmBankAccount.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmtreasury.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmUsers.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.Frmreports.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.FrmRepTicketsvat.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.MPM.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.NewRep.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.FrmRepExpenses.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Properties.Resources.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.csproj.GenerateResource.cache
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.csproj.CoreCompileInputs.cache
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.exe.manifest
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.application
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.exe
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.pdb
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.frmReportFilterbank.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Rentals.Newrent.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Rentals.Rentlist.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Rentals.frmReportFilterRental.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmticket.resources
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\QRCoder.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Newtonsoft.Json.xml
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\BouncyCastle.Crypto.dll
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAll.3C8DF291.Up2Date
+C:\Integrated Entity\Marsa With Daily Landing Payments\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.TransfertMoney.frmTransfertreasurytotreasury.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\MarsaAlloaloah.exe.config
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\MarsaAlloaloah.exe.manifest
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\MarsaAlloaloah.application
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\MarsaAlloaloah.exe
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\MarsaAlloaloah.pdb
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\FlashControlV71.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\itextsharp.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\JRINCCustomControls.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Libraries.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\QRCoder.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\SmartArabXLSX.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\zxing.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\zxing.presentation.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CRVsPackageLib.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\VsWebSite.Interop.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Telemetry.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Memory.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.RpcContracts.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Buffers.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\EnvDTE.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\JRINCCustomControls.pdb
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\JRINCCustomControls.xml
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Libraries.pdb
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\itextsharp.xml
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\zxing.xml
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\zxing.presentation.xml
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.GraphModel.xml
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.csproj.AssemblyReference.cache
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.exe.config
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.CrystalReports.CQR.Formrp.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.CrystalReports.CQR.Repland.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.TransfertMoney.frmTransfertreasurytotreasury.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Boats.Boatowners.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmdriversAndListing.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Jobs.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.PrincipalSetup.Frmabg.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmAddons.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Returnedlist.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Returned.Customersform.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\frmemployees.Forms.Returned.Frmreturn.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Returned.Retrepform.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Returned.Returnedform.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Returned.SFR.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Roles.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmboatsAndListing.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmboats.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmBoatsOrder.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmBoatType.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmCompanyDiscount.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmcustomers.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmdrivers.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmemployees.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmExpenses.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmExpensesType.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmHijriDate.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frminboat.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmIncome.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmIncomeType.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmLandingPayment.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmlanding.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmLogin.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmMaintenance.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.SeaBoat.Frmsortboats.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmEditTicket.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmmdi.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmoutboat.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmprice.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmpricegroup.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmPrintTicket.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.BoatfixReport.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.FrmExratios.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmIncomeFromCashier.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.FrmRepIncom.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportDriverCommission.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportCashierCommission.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.frmReportFilterbank.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportFilterIncome.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportFilterExpenses.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportFilterLandingPayment.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportGeneral.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportIncomeFromCashier.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportCashier.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportPrint.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportFilterTreasury.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmRole.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmSettings.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmShowEmployeeImage.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmShowImageDriver.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmShowImage.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmticket.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmTickets.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportFilterWorkingHours.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmTransferBankToTreasury.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmTransferTreasuryToBank.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmBankAccount.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmtreasury.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmUsers.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.Frmreports.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.FrmRepTicketsvat.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.MPM.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.NewRep.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.FrmRepExpenses.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Properties.Resources.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Rentals.frmReportFilterRental.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Rentals.Newrent.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Rentals.Rentlist.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.csproj.GenerateResource.cache
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.exe.manifest
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.application
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAll.3C8DF291.Up2Date
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.exe
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.pdb
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.Tamarafilter.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.PrincipalSetup.Frmpricing.resources
+C:\Users\Mostafa\Desktop\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Banktransfare.Paytransfilter.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\MarsaAlloaloah.exe.config
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\MarsaAlloaloah.exe.manifest
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\MarsaAlloaloah.application
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\MarsaAlloaloah.exe
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\MarsaAlloaloah.pdb
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\FlashControlV71.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\itextsharp.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\JRINCCustomControls.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Libraries.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\QRCoder.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\SmartArabXLSX.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\zxing.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\zxing.presentation.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CRVsPackageLib.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\VsWebSite.Interop.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Telemetry.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Memory.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.RpcContracts.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Buffers.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\EnvDTE.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\JRINCCustomControls.pdb
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\JRINCCustomControls.xml
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Libraries.pdb
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\itextsharp.xml
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\zxing.xml
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\zxing.presentation.xml
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.GraphModel.xml
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.csproj.AssemblyReference.cache
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.exe.config
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.CrystalReports.CQR.Formrp.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.CrystalReports.CQR.Repland.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Banktransfare.Paytransfilter.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.PrincipalSetup.Frmpricing.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.TransfertMoney.frmTransfertreasurytotreasury.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Boats.Boatowners.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmdriversAndListing.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Jobs.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.PrincipalSetup.Frmabg.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmAddons.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Returnedlist.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Returned.Customersform.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\frmemployees.Forms.Returned.Frmreturn.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Returned.Retrepform.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Returned.Returnedform.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Returned.SFR.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Roles.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmboatsAndListing.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmboats.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmBoatsOrder.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmBoatType.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmCompanyDiscount.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmcustomers.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmdrivers.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmemployees.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmExpenses.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmExpensesType.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmHijriDate.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frminboat.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmIncome.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmIncomeType.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmLandingPayment.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmlanding.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmLogin.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmMaintenance.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.SeaBoat.Frmsortboats.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmEditTicket.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmmdi.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmoutboat.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmprice.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmpricegroup.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmPrintTicket.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.BoatfixReport.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.FrmExratios.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmIncomeFromCashier.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.FrmRepIncom.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportDriverCommission.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportCashierCommission.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.frmReportFilterbank.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportFilterIncome.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportFilterExpenses.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportFilterLandingPayment.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportGeneral.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportIncomeFromCashier.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportCashier.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportPrint.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportFilterTreasury.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmRole.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmSettings.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmShowEmployeeImage.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmShowImageDriver.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmShowImage.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmticket.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmTickets.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportFilterWorkingHours.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmTransferBankToTreasury.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmTransferTreasuryToBank.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmBankAccount.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmtreasury.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmUsers.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.Frmreports.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.FrmRepTicketsvat.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.MPM.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.NewRep.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.FrmRepExpenses.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Properties.Resources.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Rentals.frmReportFilterRental.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Rentals.Newrent.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Rentals.Rentlist.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.Tamarafilter.resources
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.csproj.GenerateResource.cache
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.exe.manifest
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.application
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAll.3C8DF291.Up2Date
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.exe
+C:\Users\Mostafa\Desktop\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.pdb
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\MarsaAlloaloah.exe.config
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\MarsaAlloaloah.exe.manifest
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\MarsaAlloaloah.application
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\MarsaAlloaloah.exe
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\MarsaAlloaloah.pdb
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\FlashControlV71.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\itextsharp.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\JRINCCustomControls.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Libraries.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\QRCoder.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\SmartArabXLSX.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\zxing.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\zxing.presentation.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CRVsPackageLib.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\VsWebSite.Interop.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Telemetry.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Memory.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.RpcContracts.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Buffers.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\EnvDTE.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\JRINCCustomControls.pdb
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\JRINCCustomControls.xml
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Libraries.pdb
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\itextsharp.xml
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\zxing.xml
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\zxing.presentation.xml
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.GraphModel.xml
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.csproj.AssemblyReference.cache
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.exe.config
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.CrystalReports.CQR.Formrp.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.CrystalReports.CQR.Repland.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Banktransfare.Paytransfilter.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.PrincipalSetup.Frmpricing.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.TransfertMoney.frmTransfertreasurytotreasury.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Boats.Boatowners.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmdriversAndListing.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Jobs.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.PrincipalSetup.Frmabg.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmAddons.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Returnedlist.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Returned.Customersform.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\frmemployees.Forms.Returned.Frmreturn.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Returned.Retrepform.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Returned.Returnedform.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Returned.SFR.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Roles.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmboatsAndListing.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmboats.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmBoatsOrder.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmBoatType.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmCompanyDiscount.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmcustomers.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmdrivers.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmemployees.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmExpenses.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmExpensesType.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmHijriDate.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frminboat.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmIncome.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmIncomeType.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmLandingPayment.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmlanding.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmLogin.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmMaintenance.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.SeaBoat.Frmsortboats.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmEditTicket.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmmdi.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmoutboat.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmprice.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmpricegroup.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmPrintTicket.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.BoatfixReport.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.FrmExratios.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmIncomeFromCashier.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.FrmRepIncom.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportDriverCommission.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportCashierCommission.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.frmReportFilterbank.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportFilterIncome.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportFilterExpenses.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportFilterLandingPayment.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportGeneral.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportIncomeFromCashier.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportCashier.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportPrint.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportFilterTreasury.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmRole.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmSettings.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmShowEmployeeImage.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmShowImageDriver.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmShowImage.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmticket.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmTickets.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportFilterWorkingHours.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmTransferBankToTreasury.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmTransferTreasuryToBank.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmBankAccount.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmtreasury.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmUsers.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.Frmreports.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.FrmRepTicketsvat.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.MPM.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.NewRep.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.FrmRepExpenses.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Properties.Resources.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Rentals.frmReportFilterRental.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Rentals.Newrent.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Rentals.Rentlist.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.Tamarafilter.resources
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.csproj.GenerateResource.cache
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.exe.manifest
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.application
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAll.3C8DF291.Up2Date
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.exe
+C:\Users\Mostafa\Desktop\all Work\MAI\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.pdb
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\MarsaAlloaloah.exe.config
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\MarsaAlloaloah.exe.manifest
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\MarsaAlloaloah.application
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\MarsaAlloaloah.exe
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\MarsaAlloaloah.pdb
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\FlashControlV71.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\itextsharp.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\JRINCCustomControls.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Libraries.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\QRCoder.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\SmartArabXLSX.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\zxing.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\zxing.presentation.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\CRVsPackageLib.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\VsWebSite.Interop.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Telemetry.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Memory.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.RpcContracts.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Buffers.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\EnvDTE.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\JRINCCustomControls.pdb
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\JRINCCustomControls.xml
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Libraries.pdb
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\itextsharp.xml
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\zxing.xml
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\zxing.presentation.xml
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\bin\Debug\Microsoft.VisualStudio.GraphModel.xml
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.csproj.AssemblyReference.cache
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.exe.config
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.CrystalReports.CQR.Formrp.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.CrystalReports.CQR.Repland.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Banktransfare.Paytransfilter.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.PrincipalSetup.Frmpricing.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.TransfertMoney.frmTransfertreasurytotreasury.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Boats.Boatowners.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmdriversAndListing.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Jobs.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.PrincipalSetup.Frmabg.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmAddons.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Returnedlist.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Returned.Customersform.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\frmemployees.Forms.Returned.Frmreturn.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Returned.Retrepform.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Returned.Returnedform.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Returned.SFR.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.Roles.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmboatsAndListing.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmboats.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmBoatsOrder.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmBoatType.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmCompanyDiscount.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmcustomers.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmdrivers.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmemployees.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmExpenses.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmExpensesType.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmHijriDate.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frminboat.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmIncome.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmIncomeType.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmLandingPayment.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmlanding.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmLogin.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmMaintenance.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Forms.SeaBoat.Frmsortboats.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmEditTicket.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmmdi.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmoutboat.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmprice.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmpricegroup.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmPrintTicket.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.BoatfixReport.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.FrmExratios.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmIncomeFromCashier.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.FrmRepIncom.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportDriverCommission.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportCashierCommission.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.frmReportFilterbank.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportFilterIncome.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportFilterExpenses.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportFilterLandingPayment.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportGeneral.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportIncomeFromCashier.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportCashier.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportPrint.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportFilterTreasury.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmRole.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmSettings.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmShowEmployeeImage.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmShowImageDriver.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmShowImage.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmticket.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmTickets.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmReportFilterWorkingHours.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmTransferBankToTreasury.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmTransferTreasuryToBank.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmBankAccount.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmtreasury.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.frmUsers.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.Frmreports.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.FrmRepTicketsvat.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.MPM.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.NewRep.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.FrmRepExpenses.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Properties.Resources.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Rentals.frmReportFilterRental.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Rentals.Newrent.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.Rentals.Rentlist.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.FrmReports.Tamarafilter.resources
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.csproj.GenerateResource.cache
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.exe.manifest
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.application
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAll.3C8DF291.Up2Date
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.exe
+C:\Users\Mostafa\Desktop\Last work\MarsaAlloaloah\MarsaAlloaloah\obj\Debug\MarsaAlloaloah.pdb

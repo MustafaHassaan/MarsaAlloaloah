@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>JRINCCustomControls</name>
+    </assembly>
+    <members>
+        <member name="T:JRINCCustomControls.CurrencyTextBox">
+            <summary>
+            This class is taken from the link : https://www.codeproject.com/Articles/248989/A-Currency-Masked-TextBox-from-TextBox-Class
+            And then I have Add some modification
+            </summary>
+        </member>
+        <member name="M:JRINCCustomControls.CurrencyTextBox.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:JRINCCustomControls.CurrencyTextBox.#ctor(System.ComponentModel.IContainer)">
+            <summary>
+            
+            </summary>
+            <param name="container"></param>
+        </member>
+        <member name="P:JRINCCustomControls.CurrencyTextBox.WorkingText">
+            <summary>
+            Contains the entered text without mask.
+            </summary>
+        </member>
+        <member name="P:JRINCCustomControls.CurrencyTextBox.PreFix">
+            <summary>
+            Contains the prefix that preceed the inputted text.
+            </summary>
+        </member>
+        <member name="P:JRINCCustomControls.CurrencyTextBox.ThousandsSeparator">
+            <summary>
+            Contains the separator symbol for thousands.
+            </summary>
+        </member>
+        <member name="P:JRINCCustomControls.CurrencyTextBox.DecimalsSeparator">
+            <summary>
+            Contains the separator symbol for decimals.
+            </summary>
+        </member>
+        <member name="P:JRINCCustomControls.CurrencyTextBox.DecimalPlaces">
+            <summary>
+            Indicates the total places for decimal values.
+            </summary>
+        </member>
+        <member name="M:JRINCCustomControls.CurrencyTextBox.formatText">
+            <summary>
+            Formats the entered text.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="F:JRINCCustomControls.CurrencyTextBox.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:JRINCCustomControls.CurrencyTextBox.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:JRINCCustomControls.CurrencyTextBox.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+    </members>
+</doc>
